@@ -1,2 +1,3 @@
 # camera
-Camera app: phonegap + bootstrap
+Project test:
+Phonegap and bootstrap
